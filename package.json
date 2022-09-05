@@ -1,6 +1,6 @@
 {
   "name": "@arifdev.tickets/common",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Ticketing microservices common library",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
@@ -17,7 +17,11 @@
     "pub": "npm run git:push && npm version patch && npm run build && npm publish --access public",
     "git:push": "git add . && git commit -m \"Updates\" && git push origin master"
   },
-  "keywords": ["ticketing", "microservices", "common"],
+  "keywords": [
+    "ticketing",
+    "microservices",
+    "common"
+  ],
   "author": "Md. Ariful Islam",
   "license": "ISC",
   "devDependencies": {
