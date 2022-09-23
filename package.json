@@ -1,6 +1,6 @@
 {
   "name": "@arifdev.tickets/common",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Ticketing microservices common library",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
